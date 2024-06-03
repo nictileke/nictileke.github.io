@@ -1,0 +1,10 @@
+---
+title: Vecka 2
+date: "2024-03-17"
+keywords: ["localStorage", "points"]
+---
+
+Laddat ner koden från git.
+
+
+Ändrat färgen och storleken på border för class "upgrades":
